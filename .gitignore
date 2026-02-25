@@ -1,0 +1,12 @@
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller 构建目录
+build/
+
+# 图标和配置文件
+yemou.ico
+*.spec
